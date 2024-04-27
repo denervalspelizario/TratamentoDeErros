@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositorio\\TratamentoDeErros_C#\\Exercicio_Try_Catch_Throw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01D9B97E-3BA2-4D9E-92CD-4C7B14A4473F}|Exercicio_Try_Catch_Throw\\Exercicio_Try_Catch_Throw.csproj|d:\\repositorio\\tratamentodeerros_c#\\exercicio_try_catch_throw\\exercicio_try_catch_throw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D9B97E-3BA2-4D9E-92CD-4C7B14A4473F}|Exercicio_Try_Catch_Throw\\Exercicio_Try_Catch_Throw.csproj|solutionrelative:exercicio_try_catch_throw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repositorio\\TratamentoDeErros_C#\\Exercicio_Try_Catch_Throw\\Exercicio_Try_Catch_Throw\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_Try_Catch_Throw\\Program.cs",
+              "ToolTip": "D:\\repositorio\\TratamentoDeErros_C#\\Exercicio_Try_Catch_Throw\\Exercicio_Try_Catch_Throw\\Program.cs",
+              "RelativeToolTip": "Exercicio_Try_Catch_Throw\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T19:05:45.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\repositorio\TratamentoDeErros_C#\Bloco_Try_Catch\Bloco_Try_Catch\bin\Debug\net8.0\Bloco_Try_Catch.exe
+D:\repositorio\TratamentoDeErros_C#\Bloco_Try_Catch\Bloco_Try_Catch\bin\Debug\net8.0\Bloco_Try_Catch.deps.json
+D:\repositorio\TratamentoDeErros_C#\Bloco_Try_Catch\Bloco_Try_Catch\bin\Debug\net8.0\Bloco_Try_Catch.runtimeconfig.json
+D:\repositorio\TratamentoDeErros_C#\Bloco_Try_Catch\Bloco_Try_Catch\bin\Debug\net8.0\Bloco_Try_Catch.dll
+D:\repositorio\TratamentoDeErros_C#\Bloco_Try_Catch\Bloco_Try_Catch\bin\Debug\net8.0\Bloco_Try_Catch.pdb
+D:\repositorio\TratamentoDeErros_C#\Bloco_Try_Catch\Bloco_Try_Catch\obj\Debug\net8.0\Bloco_Try_Catch.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\TratamentoDeErros_C#\Bloco_Try_Catch\Bloco_Try_Catch\obj\Debug\net8.0\Bloco_Try_Catch.AssemblyInfoInputs.cache
+D:\repositorio\TratamentoDeErros_C#\Bloco_Try_Catch\Bloco_Try_Catch\obj\Debug\net8.0\Bloco_Try_Catch.AssemblyInfo.cs
+D:\repositorio\TratamentoDeErros_C#\Bloco_Try_Catch\Bloco_Try_Catch\obj\Debug\net8.0\Bloco_Try_Catch.csproj.CoreCompileInputs.cache
+D:\repositorio\TratamentoDeErros_C#\Bloco_Try_Catch\Bloco_Try_Catch\obj\Debug\net8.0\Bloco_Try_Catch.sourcelink.json
+D:\repositorio\TratamentoDeErros_C#\Bloco_Try_Catch\Bloco_Try_Catch\obj\Debug\net8.0\Bloco_Try_Catch.dll
+D:\repositorio\TratamentoDeErros_C#\Bloco_Try_Catch\Bloco_Try_Catch\obj\Debug\net8.0\refint\Bloco_Try_Catch.dll
+D:\repositorio\TratamentoDeErros_C#\Bloco_Try_Catch\Bloco_Try_Catch\obj\Debug\net8.0\Bloco_Try_Catch.pdb
+D:\repositorio\TratamentoDeErros_C#\Bloco_Try_Catch\Bloco_Try_Catch\obj\Debug\net8.0\Bloco_Try_Catch.genruntimeconfig.cache
+D:\repositorio\TratamentoDeErros_C#\Bloco_Try_Catch\Bloco_Try_Catch\obj\Debug\net8.0\ref\Bloco_Try_Catch.dll
